@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="top_message">BMI Kalkulator</string>
+    <string name="explain">Regner ut BMI basert på vekt og høyde</string>
+    <string name="height">Høyde</string>
+    <string name="weight">Vekt</string>
+    <string name="calculate">Kalkuler</string>
+</resources>
